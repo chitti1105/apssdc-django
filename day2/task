@@ -1,0 +1,119 @@
+    1  pwd
+    2  # apt-get install git
+    3  makdir day1
+    4  mkdir day1
+    5  cd day1
+    6  pwd
+    7  cd..
+    8  cd ..
+    9  pwd
+   10  ls
+   11  cd day1
+   12  cd 
+   13  cd ..
+   14  cd ..
+   15  cd ..
+   16  cd 
+   17  cd ..
+   18  cd 
+   19  cd d:
+   20  cd D:
+   21  ls
+   22  cd E:
+   23  pwd
+   24  rmdir day1
+   25  cd ..
+   26  cd  ~/OneDrive/Desktop/apssdc-Django
+   27  mkdir day1
+   28  rmdir day1
+   29  mkdir day1
+   30  touch file.txt
+   31  ls
+   32  touch file.py
+   33  ls
+   34  touch file.cpp
+   35  ls
+   36  touch file.c
+   37  touch file.java
+   38  touch file.sh
+   39  ls
+   40  echo "Hello"
+   41  echo 
+   42  echo "Hello every one:" >> file.txt
+   43  cat file.txt
+   44  ls
+   45  cd day1
+   46  touch file{1..10}.txt
+   47  ls
+   48  touch file{1..10}.cpp
+   49  rm 
+   50  rm *.txt
+   51  ls
+   52  history
+   53  mkdir day1
+   54  ls
+   55  mkdir day2
+   56  ls
+   57  cd day2
+   58  mkdir dabcdef
+   59  mkdir dabcdef
+   60  ls
+   61  rmdir dabcdef
+   62  rmdir dabcdefgh/
+   63  ls
+   64  pwd
+   65  touch chitti
+   66  ls
+   67  touch chinnu /chinni
+   68  nano demo.txt
+   69  vim demofile.txt
+   70  touch destination.txt
+   71  cp demo.txt destination.txt
+   72  cat destination.txt
+   73  cat demo.txt
+   74  cat destination1.txt
+   75  mv demo.txt destination1.txt
+   76  cat destination1.txt
+   77  cat demo.txt
+   78  history
+   79  history >> chitti
+   80  cat chitti
+   81  touch file{1...10}.txt
+   82  mv *.txt destination
+   83  mkdir destination
+   84  mv *.txt destination
+   85  ls
+   86  rmdir destination
+   87  rm destination
+   88  rm -r destination
+   89  cd ..
+   90  git init
+   91  git config --global user.name "BHAVANA"
+   92  git config --global user.name
+   93  git config  user.name
+   94  git config --global user.email "narubhavana2001@gmail.com"
+   95  git config  user.email
+   96  touch gitdemo.txt
+   97  ls
+   98  git status
+   99  git add --a
+  100  git status
+  101  git add --a
+  102  git status
+  103  git add --a
+  104  git status
+  105  ls
+  106  git init
+  107  history
+  108  git commit -m "FILES AND FOLDERS ARE ADDED"
+  109  git status
+  110  git status
+  111  git remote add apssdc https://github.com/chitti1105/apssdc-django.git
+  112  git remote -v
+  113  git push -u apssdc master
+  114  git -u apssdc mater
+  115  git -u apssdc master
+  116  git push -u apssdc master
+  117  git status
+  118  cd day2
+  119  history >> task
